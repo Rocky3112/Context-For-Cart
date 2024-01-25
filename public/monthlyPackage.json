@@ -1,0 +1,31 @@
+[
+    {
+      "name": "1 Premium Meal / day",
+      "price": 1100,
+      "offer": "20% off",
+      "imageUrl": "https://wtop.com/wp-content/uploads/2022/08/080422_mighty-Meals.jpg",
+      "features": [
+        "2 Days CHICKEN",
+        "1 Day Beef",
+        "2 Day Fried Fish",
+        "2 Day Biriyani"
+        
+      ],
+      "packageDetails": "The Chick-fil-A spicy chicken sandwich is iconic, and it isn’t even a decade old. Believe it or not, the spicy option was first introduced in 2010. It took more than 50 years to arrive, but there’s joy in knowing they got it right. Strip away the promotional gimmicks from its competitors and you’ll find that Chick-fil-A has the best, spiciest chicken sandwich in all of fast food. The Chick-fil-A spicy chicken sandwich is iconic, and it isn’t even a decade old. Believe it or not, the spicy option was first introduced in 2010. It took more than 50 years to arrive, but there’s joy in knowing they got it right. Strip away the promotional gimmicks from its competitors and you’ll find that Chick-fil-A has the best, spiciest chicken sandwich in all of fast food."
+    },
+    {
+      "name": "2 Premium Meal / day",
+      "price": 1500,
+      "offer": "25% off",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/59af63e0be42d610797d041f/1682517854451-ND9KHYY6M8WRID6OHAZW/IMG_8282.jpeg?format=1500w",
+      "features": [
+        "2 Days CHICKEN",
+        "2 Day Beef",
+        "1 Day Vegetables",
+        "2 Day Biriyani"
+        
+      ],
+      "packageDetails": "The Chick-fil-A spicy chicken sandwich is iconic, and it isn’t even a decade old. Believe it or not, the spicy option was first introduced in 2010. It took more than 50 years to arrive, but there’s joy in knowing they got it right. Strip away the promotional gimmicks from its competitors and you’ll find that Chick-fil-A has the best, spiciest chicken sandwich in all of fast food. The Chick-fil-A spicy chicken sandwich is iconic, and it isn’t even a decade old. Believe it or not, the spicy option was first introduced in 2010. It took more than 50 years to arrive, but there’s joy in knowing they got it right. Strip away the promotional gimmicks from its competitors and you’ll find that Chick-fil-A has the best, spiciest chicken sandwich in all of fast food."
+    }
+  ]
+  

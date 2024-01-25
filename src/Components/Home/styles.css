@@ -1,0 +1,32 @@
+.monthly-plan {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.40) 0%, rgba(0, 0, 0, 0.40) 100%), url('../../images/bg1.png'), lightgray 50% / cover no-repeat;
+  height: 900px;
+  background-size: cover;
+  background-position: center;
+}
+
+.regularItems{
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0.75) 100%), url('../../images/Rectangle\ 327.png'), lightgray 50% / cover no-repeat;
+
+  height: 1100px;
+  background-size: cover;
+  background-position: center;
+
+}
+/* Mobile Responsive */
+@media (max-width: 567px) {
+  .monthly-plan {
+    height:fit-content;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    padding-top: 30px;
+  }
+  .regularItems {
+    height:fit-content;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    padding-top: 30px;
+  }
+}

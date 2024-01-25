@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Pizza",
+        "offerPrice": 350,
+        "regularPrice": 420,
+        "imageUrl": "https://www.southernliving.com/thmb/3x3cJaiOvQ8-3YxtMQX0vvh1hQw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2652401_QFSSL_SupremePizza_00072-d910a935ba7d448e8c7545a963ed7101.jpg",
+        "description1": "Freshly baked with gooey cheese and your favorite toppings.",
+        "description2": "Satisfy your pizza cravings with our classic Margherita, pepperoni, or create your own with a variety of toppings. Choose from our creamy tomato soup, hearty lentil soup, or spicy pumpkin soup. Choose from our creamy tomato soup, hearty lentil soup, or spicy pumpkin soup. Choose from our creamy tomato soup, hearty lentil soup, or spicy pumpkin soup.",
+        "review": 5,
+        "id": "1a"
+    },
+    {
+        "name": "Desserts",
+        "offerPrice": 120,
+        "regularPrice": 150,
+        "imageUrl": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Cherry-Delight-Dessert_EXPS_TOHcom23_27515_P2_MD_03_22_4b.jpg",
+        "description1": "Sweet and satisfying, the perfect way to end your meal.",
+        "description2": "Indulge in our chocolate cake, cheesecake, or seasonal fruit salad. Indulge in our chocolate cake, cheesecake, or seasonal fruit salad Indulge in our chocolate cake, cheesecake, or seasonal fruit salad Indulge in our chocolate cake, cheesecake, or seasonal fruit salad Indulge in our chocolate cake, cheesecake, or seasonal fruit salad",
+        "review": 4.7,
+        "id": "2a"
+    },
+    {
+        "name": "Sandwiches",
+        "offerPrice": 199,
+        "regularPrice": 250,
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/italian-sandwich-recipe-2-1674500643.jpg?crop=0.6666666666666667xw:1xh;center,top&resize=1200:*",
+        "description1": "With fish, chips and sandwiches.",
+        "description2": "There is a semi-fancy bar that my friends and I like to go to, and we always order a big bowl of their fries because they taste like McDonald’s fries. No matter how fancy the restaurant, “Tastes like McDonald’s fries” is the highest compliment you can give a french fry. Also, no other fast-food item has a Kanye West poem written about it. “I don't trust no food that smells that good, man,” he says of the fries in “McDonald’s Man.” There is no competition; this is the most foolish thing Kanye West has ever said.",
+        "review": 4,
+        "id": "3a"
+    },
+    {
+        "name": "Pasta",
+        "offerPrice": 280,
+        "regularPrice": 350,
+        "imageUrl": "https://www.allrecipes.com/thmb/5SdUVhHTMs-rta5sOblJESXThEE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11691-tomato-and-garlic-pasta-ddmfs-3x4-1-bf607984a23541f4ad936b33b22c9074.jpg",
+        "description1": "Creamy, flavorful, and made with fresh ingredients.",
+        "description2": "Enjoy our penne arrabbiata, creamy pesto pasta, or hearty lasagna. Choose from our creamy tomato soup, hearty lentil soup, or spicy pumpkin soup. Choose from our creamy tomato soup, hearty lentil soup, or spicy pumpkin soup.",
+        "review": 4.5,
+        "id": "4a"
+    },
+    {
+        "name": "Burgers",
+        "offerPrice": 220,
+        "regularPrice": 280,
+        "imageUrl": "https://www.foodandwine.com/thmb/pwFie7NRkq4SXMDJU6QKnUKlaoI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ultimate-Veggie-Burgers-FT-Recipe-0821-5d7532c53a924a7298d2175cf1d4219f.jpg",
+        "description1": "Juicy, cheesy, and stacked high with your favorite fixings.",
+        "description2": "Choose from our classic cheeseburger, bacon burger, or go all out with the double patty monster burger. Choose from our creamy tomato soup, hearty lentil soup, or spicy pumpkin soup.",
+        "review": 4,
+        "id": "4a"
+    },
+    {
+        "name": "Soup",
+        "offerPrice": 150,
+        "regularPrice": 180,
+        "imageUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2019/06/vegetable-soup-500x375.jpg",
+        "description1": "Warm and comforting, perfect for a cozy day in.",
+        "description2": "Choose from our creamy tomato soup, hearty lentil soup, or spicy pumpkin soup. Choose from our creamy tomato soup, hearty lentil soup, or spicy pumpkin soup. Choose from our creamy tomato soup, hearty lentil soup, or spicy pumpkin soup.",
+        "id": "6a",
+        "review": 4.2
+    },
+    {
+        "name": "Desserts",
+        "offerPrice": 120,
+        "regularPrice": 150,
+        "imageUrl": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Cherry-Delight-Dessert_EXPS_TOHcom23_27515_P2_MD_03_22_4b.jpg",
+        "description1": "Sweet and satisfying, the perfect way to end your meal.",
+        "description2": "Indulge in our chocolate cake, cheesecake, or seasonal fruit salad. Indulge in our chocolate cake, cheesecake, or seasonal fruit salad Indulge in our chocolate cake, cheesecake, or seasonal fruit salad Indulge in our chocolate cake, cheesecake, or seasonal fruit salad Indulge in our chocolate cake, cheesecake, or seasonal fruit salad",
+        "id": "7a",
+        "review": 4.7
+    },
+    {
+        "name": "Sandwiches",
+        "offerPrice": 199,
+        "regularPrice": 250,
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/italian-sandwich-recipe-2-1674500643.jpg?crop=0.6666666666666667xw:1xh;center,top&resize=1200:*",
+        "description1": "With fish, chips and sandwiches.",
+        "description2": "There is a semi-fancy bar that my friends and I like to go to, and we always order a big bowl of their fries because they taste like McDonald’s fries. No matter how fancy the restaurant, “Tastes like McDonald’s fries” is the highest compliment you can give a french fry. Also, no other fast-food item has a Kanye West poem written about it. “I don't trust no food that smells that good, man,” he says of the fries in “McDonald’s Man.” There is no competition; this is the most foolish thing Kanye West has ever said.",
+        "id": "8a",
+        "review": 4
+    }
+]
